@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chang-Mu Han"
 title_separator          : "-"
 name                     : &name "Chang-Mu Han"
-description              : &description "My research interests include mathematical modeling, control, and optimization for applications in mechatronics and biomedical optics"
+description              : &description "Graduate Research Assistant in Institute for Electronics and Applied Physics"
 url                      : https://hankcmhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hankcmhan/hankcmhan.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chang-Mu Han"
   avatar           : "profile.png"
-  bio              : "Research professionals in system instrumentation & control engineering"
-  location         : "college Park, Maryland, USA"
+  bio              : "Research professionals in system Instrumentation & control engineering"
+  location         : "college Park, Maryland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OYJvGOYAAAAJ&hl=en"
