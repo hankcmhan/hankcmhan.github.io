@@ -6,7 +6,7 @@ excerpt: 'Expression microdissection (xMD) allows extraction of target cancer ce
 date: 2019-09-16
 venue: 'Frontiers in optics/Laser Science'
 paperurl: 'https://doi.org/10.1364/FIO.2019.JTu3A.127'
-citation: 'Chang-Mu Han,Edo Waks, and Benjamin Shapiro. (2019).&quot;Thermal Modeling and Simulation for Optical Illumination to Extract Cancer Cells from Human Tissue Samples.&quot; <i>Frontiers in optics/Laser Science</i>.'
+citation: 'Chang-Mu Han,Edo Waks, and Benjamin Shapiro, &quot;Thermal Modeling and Simulation for Optical Illumination to Extract Cancer Cells from Human Tissue Samples,&quot; <i>Frontiers in optics/Laser Science</i>, JTu3A.127, 2019.'
 ---
 Expression microdissection (xMD) allows extraction of target cancer cells from human tissue samples, to reduce misdiagnoses caused by non-target cell contamination. A thermal model and simulations are presented to assess temperature distribution in the xMD process.
 
