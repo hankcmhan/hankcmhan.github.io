@@ -15,7 +15,7 @@ Education
 * M.S. in Applied Mechanics, National Taiwan University, 2009
 * Ph.D. in Electrical and Computer Engineering, University of Maryland, 2020 (expected)
 
-Work experience
+Work Experience
 ======
 * 2017 - Present: Graduate Research Assistant
 
