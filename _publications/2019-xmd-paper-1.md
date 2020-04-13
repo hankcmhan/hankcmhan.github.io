@@ -1,5 +1,5 @@
 ---
-title: "ThermalModelingandSimulationforOptical Illumination to Extract Cancer Cells from Human Tissue Samples"
+title: "Thermal Modeling and Simulation for Optical Illumination to Extract Cancer Cells from Human Tissue Samples"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Expression microdissection (xMD) allows extraction of target cancer cells from human tissue samples, to reduce misdiagnoses caused by non-target cell contamination. A thermal model and simulations are presented to assess temperature distribution in the xMD process.'
