@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Yuan Ze University, 2007
+* M.S. in Applied Mechanics, National Taiwan University, 2009
+* Ph.D. in Electrical and Computer Engineering, University of Maryland, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - Present: Graduate Research Assistant
+  Expression Microdissection (xMD) is an optical tissue microdissection method that isolates target cancer cells from tumor tissue samples for downstream molecular analysis. However, xMD suffers from over-heating problem that can result in contamination of the analysis. My duties include the followings:
+  * Proposed a mathematica model that explains the physics behind xMD
+  * Designed experimental approaches to validate the xMD model.
+  * Built a laser raster system from scratch to implement xMD, and designed a control software module for the system with LabVIEW.
+  * Solved the problem of measuring temperature in a micro-scaled thin tissue-mimicking phantoms.
+  * Simulated transient temperature distribution in the phantoms during laser irradiation in different conditions with COMSOL
+  * Demonstrated the significant correlation between the simulations and experimental results.
+  * Implemented systematic approach to optimize the xMD process by deep learning so that xMD extracts only target cells and cause no damage to them due to the over-heating.
+  * Commercialized a compact xMD laser raster system with model-based systems engineering. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - 2015: Software Engineer
+  Electronic product test before launch inevitably needs many operators, thus, may cause human erros and require more cost and time. Therfore, to develop a electronic product automation and testing line, my job was the following:   
+  * Designed and built control algorithms for elevators and conveyors of the line with finite state machines.
+  * Implemented the machines with LabVIEW in NI single board RIO that controls and bridges the elevators and conveyors with other line subsystems, i.e., robotic arms.
+  * Solved interaction problem between the line subsystems by IO handshaking and JSON protocols.
+  * Validated the elevators and conveyors by field test.
+
+* 2011 - 2013: Research Assistant
+  My responsibility was to conduct experiments to validate bioinstrumentation systems and products, and processed the experimental results by machine learning classification methods and statistical analyses. Specifically, my job was the following:
+  * Designed and conducted experiments to statistically validate biomedical systems. For example, factor analysis for questionnaire evaluation.
+  * Developed a software testing module to record the emotion indicator and EEG of subjects simultaneously and used Support Vector Machine to classify the indicator and EEG.
+  * Drafted journal articles and conference papers, and delivered presentations and posters at conferences.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
+* LabVIEW
+  * NI SoftMotion module
+  * NI FPGA module
+  * NI vision development module
+* COMSOL
+* Solidworks
 
 Publications
 ======
@@ -42,18 +58,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
