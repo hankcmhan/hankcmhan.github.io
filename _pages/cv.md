@@ -18,6 +18,7 @@ Education
 Work experience
 ======
 * 2017 - Present: Graduate Research Assistant
+
   Expression Microdissection (xMD) is an optical tissue microdissection method that isolates target cancer cells from tumor tissue samples for downstream molecular analysis. However, xMD suffers from over-heating problem that can result in contamination of the analysis. My duties include the followings:
   * Proposed a mathematica model that explains the physics behind xMD
   * Designed experimental approaches to validate the xMD model.
@@ -29,6 +30,7 @@ Work experience
   * Commercialized a compact xMD laser raster system with model-based systems engineering. 
 
 * 2013 - 2015: Software Engineer
+
   Electronic product test before launch inevitably needs many operators, thus, may cause human erros and require more cost and time. Therfore, to develop a electronic product automation and testing line, my job was the following:   
   * Designed and built control algorithms for elevators and conveyors of the line with finite state machines.
   * Implemented the machines with LabVIEW in NI single board RIO that controls and bridges the elevators and conveyors with other line subsystems, i.e., robotic arms.
@@ -36,6 +38,7 @@ Work experience
   * Validated the elevators and conveyors by field test.
 
 * 2011 - 2013: Research Assistant
+
   My responsibility was to conduct experiments to validate bioinstrumentation systems and products, and processed the experimental results by machine learning classification methods and statistical analyses. Specifically, my job was the following:
   * Designed and conducted experiments to statistically validate biomedical systems. For example, factor analysis for questionnaire evaluation.
   * Developed a software testing module to record the emotion indicator and EEG of subjects simultaneously and used Support Vector Machine to classify the indicator and EEG.
