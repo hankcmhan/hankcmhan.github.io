@@ -6,6 +6,6 @@ excerpt: 'Recent studies have proposed a product design and development model th
 date: 2012-06-27
 venue: 'Computer-Aided Design and Applications'
 paperurl: '10.3722/cadaps.2012.397-408'
-citation: 'Kevin C. Tseng, Borshy Lin, and Chang-Mu Han. (2012). &quot;An intelligent system for sustainable product design at the concept development stage&quot; <i>Computer-Aided Design and Applications</i>. 9(3).'
+citation: 'Kevin C. Tseng, Borshy Lin, and Chang-Mu Han, &quot;An intelligent system for sustainable product design at the concept development stage,&quot; <i>Computer-Aided Design and Applications</i>, 9(3), 689-694, 2012.'
 ---
 Recent studies have proposed a product design and development model that includes consideration of sustainability in order to solve serious ecological issues and environment problems. However, emphasizing the benefits of concept development at an early stage only partly addresses these issues. A more significant problem is that design systems are insufficient to assist designers to manage requirements and develop products. Therefore, in the paper, a significant and intelligent design system has been proposed. During the design process of SPDD, the system allows designers to establish the concept without limits of time and distance because of its web-based structure. Furthermore, sustainability derivatives management provides a design that will determine requirements efficiently. In the end, a case study was suggested to apply and test the system.
