@@ -9,7 +9,7 @@ location: "College Park, Maryland"
 ---
 An introductory probability course that includes basics of probability theory, discrete random variables, continuous random variables, sums of randome variables, limit theorems, and statisical inference. My duties is to lead office hours and discussion every week and to show solutions for the exercise problems that are assigned from the course instructor.
 
-Download discussion materials here
+Download example of the discussion materials here
 [Recitation 1](http://hankcmhan.github.io/files/enee324/Rec1.pdf)
 [Recitation 2](http://hankcmhan.github.io/files/enee324/Rec2.pdf)
 [Recitation 3](http://hankcmhan.github.io/files/enee324/Rec3.pdf)
