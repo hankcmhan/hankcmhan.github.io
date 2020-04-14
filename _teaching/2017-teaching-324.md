@@ -1,7 +1,7 @@
 ---
 title: "ENEE 324 Engineering Probability"
 collection: teaching
-type: "Discussion"
+type: "Undergraduate course"
 permalink: /teaching/2017-teaching-324
 venue: "Department of Electrical and Computer Engineering, University of Maryland"
 date: 2017-08-01
