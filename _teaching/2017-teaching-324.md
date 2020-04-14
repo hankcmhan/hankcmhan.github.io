@@ -7,7 +7,7 @@ venue: "Department of Electrical and Computer Engineering, University of Marylan
 date: 2017-08-01
 location: "College Park, Maryland"
 ---
-An introductory probability course that includes basics of probability theory, discrete random variables, continuous random variables, sums of randome variables, limit theorems, and statisical inference. My duties is to lead office hours and discussion every week and to show solutions for the exercise problems that are assigned from the course instructor.
+An introductory probability course that includes basics of probability theory, discrete random variables, continuous random variables, sums of randome variables, limit theorems, and statisical inference. My duties is to lead office hours and discussion every week and to discuss with students about solutions to the exercise problems that are assigned from the course instructor.
 
 Download example of the discussion materials here
 [Recitation 1](http://hankcmhan.github.io/files/enee324/Rec1.pdf)
