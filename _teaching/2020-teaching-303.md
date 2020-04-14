@@ -11,6 +11,6 @@ An introductory analog and digital circuits course allows students to learn the 
 
 
 Download example of the discussion materials here
-[Recitation 08](http://hankcmhan.github.io/files/Rec8.pptx)
-[Recitation 09](http://hankcmhan.github.io/files/Rec9.pptx)
+[Recitation 08](http://hankcmhan.github.io/files/Rec8.pdf)
+[Recitation 09](http://hankcmhan.github.io/files/Rec9.pdf)
 
