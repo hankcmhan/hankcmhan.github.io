@@ -7,7 +7,7 @@ venue: "Department of Electrical and Computer Engineering, University of Marylan
 date: 2020-02-01
 location: "College Park, Maryland"
 ---
-An introductory analog and digital circuits course at the University of Maryland allows students to learn the fundamental principles of operation of the circuits that are based on active devices such as MOSFET and Bipolar Transistors, which provide amplification.
+An introductory analog and digital circuits course allows students to learn the fundamental principles of operation of the circuits that are based on active devices such as MOSFET and Bipolar Transistors, which provide amplification. I'm a teaching assistant responsilbe for conducting discussion and office hours every week, summarizing week notes for students, and preparing for exercise problems. 
 
 
 [Download discussion materials here](http://hankcmhan.github.io/files)
