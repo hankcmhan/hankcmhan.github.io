@@ -9,7 +9,7 @@ location: "College Park, Maryland"
 ---
 An introductory analog and digital circuits course allows students to learn the fundamental principles of operation of the circuits that are based on active devices such as MOSFET and Bipolar Transistors, which provide amplification. 
 
-I'm a teaching assistant responsilbe for conducting discussion and office hours every week, summarizing week notes for students, and preparing for exercise problems. 
+As a teaching assistant, I have to conduct discussion session and office hours every week, to summarize week notes for students, and prepare for exercise problems that help the students understand how to use theories and concepts learned in class. 
 
 
 Download example of the discussion materials here
