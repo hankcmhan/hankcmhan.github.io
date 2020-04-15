@@ -17,7 +17,7 @@ Education
 
 Work Experience
 ======
-* 2017 - Present: Graduate Research Assistant
+* 2015 - Present: Graduate Research Assistant
 
   Expression Microdissection (xMD) is an optical tissue microdissection method that isolates target cancer cells from tumor tissue samples for downstream molecular analysis. However, xMD suffers from over-heating problem that can result in contamination of the analysis. My duties include the followings:
   * Proposed a mathematica model that explains the physics behind xMD
