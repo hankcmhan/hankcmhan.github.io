@@ -13,6 +13,6 @@ As a teaching assistant, I have to conduct discussion session and office hours e
 
 
 Download example of the discussion materials here
-[Recitation 08](http://hankcmhan.github.io/files/Rec8.pdf)
-[Recitation 09](http://hankcmhan.github.io/files/Rec9.pdf)
+[Recitation 08](http://hankcmhan.github.io/files/enee303/Rec8.pdf)
+[Recitation 09](http://hankcmhan.github.io/files/enee303/Rec9.pdf)
 
