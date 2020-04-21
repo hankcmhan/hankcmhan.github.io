@@ -20,7 +20,7 @@ Work Experience
 * 2015 - Present: Graduate Research Assistant
 
   Expression Microdissection (xMD) is an optical tissue microdissection method that isolates target cancer cells from tumor tissue samples for downstream molecular analysis. However, xMD suffers from over-heating problem that can result in contamination of the analysis. My duties include the followings:
-  * Proposed a mathematica model that explains the physics behind xMD
+  * Proposed a mathematical model that explains the physics behind xMD
   * Designed experimental approaches to validate the xMD model.
   * Built a laser raster system from scratch to implement xMD, and designed a control software module for the system with LabVIEW.
   * Solved the problem of measuring temperature in a micro-scaled thin tissue-mimicking phantoms.
